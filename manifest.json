@@ -1,0 +1,26 @@
+{
+    "name": "FroggyPack",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/kscarlett/FroggyPack",
+    "description": "So, you think you can keep up with the froggy?",
+    "dependencies": [
+        "bbepis-BepInExPack-5.4.9",
+        "RiskofThunder-HookGenPatcher-1.2.1",
+        "William758-ZetAspects-2.5.2",
+        "tristanmcpherson-R2API-3.0.52",
+        "PlasmaCore3-StickyStunter-1.0.0",
+        "kking117-DioToTougherTimes-2.0.0",
+        "Lodington-Aerolt-1.2.0",
+        "XoXFaby-BetterUI-2.3.0",
+        "ThinkInvis-Hypercrit-2.0.2",
+        "TheRealElysium-WaxQuailMultiJump-1.0.1",
+        "MagnusMagnuson-BiggerBazaar-1.12.13",
+        "Pickleses-TeleporterShow-2.3.2",
+        "ontrigger-ItemStatsMod-2.2.1",
+        "niwith-DropinMultiplayer-1.0.19",
+        "MagnusMagnuson-ItemExchangeNotifier-1.3.1",
+        "XoXFaby-MMHOOK_Standalone-1.0.3",
+        "KingEnderBrine-ProperSave-2.7.0",
+        "dan8991iel-LunarCoinShareOnPickup-3.6.1"
+    ]
+}
